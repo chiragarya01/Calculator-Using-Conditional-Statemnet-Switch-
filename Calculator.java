@@ -1,23 +1,3 @@
-/* 
-public class Calculate {
-    public static void main(String args[]) {
-
-        int a = 34;
-        int b = 34;
-
-        char perform = '+';
-
-        switch (perform) {
-            case '+':
-                System.out.println(a + b);
-                break;
-            case '-':
-                System.out.println(a - b);
-        }
-    }
-}
- */
-
 import java.util.*;
 
 public class Calculator {
